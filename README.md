@@ -1,7 +1,7 @@
 # Classification-of-Imbalance-Dataset
 Binary Classification for Imbalance Dataset,  pre-processing and EDA, ML methods and NN.
 
-There are three notebook, first one is [pre-processing and EDA] (Pre-processing data_final.ipynb), second one is [Machine Learning methods with Under and Upper sampling] (Machine Learning Methods.ipynb), finally, [the NN notebook] (DeepNeuralNet.ipynb). 
+There are three notebook, first one is [pre-processing and EDA] (https://github.com/parinazfa/Classification-of-Imbalance-Dataset/blob/main/Pre-processing%20data_final.ipynb), second one is [Machine Learning methods with Under and Upper sampling] (https://github.com/parinazfa/Classification-of-Imbalance-Dataset/blob/main/Machine%20Learning%20Methods.ipynb), finally, [the NN notebook] (https://github.com/parinazfa/Classification-of-Imbalance-Dataset/blob/main/DeepNeuralNet.ipynb). 
 
 
 ## How to Contribute
